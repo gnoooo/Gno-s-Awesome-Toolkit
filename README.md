@@ -1,5 +1,5 @@
 # Gno's Awesome Toolkit
-Have you ever wanted a specific? Well, maybe I've made it (or maybe not, who knows...). This repository will contain a lot of scripts that can be useful for homelab management, or else.
+Have you ever wanted a specific script? Well, maybe I've made it (or maybe not, who knows...). This repository will contain a lot of scripts that can be useful for homelab management, or else.
 
 ## Scripts
 ### Used Ports Management
